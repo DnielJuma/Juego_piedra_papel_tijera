@@ -5,7 +5,7 @@ Proyecto desarrollado para la asignatura de Logica de Programación. Consiste en
 ## Diagramas del Sistema
 
 ### Diagrama 1: Diagrama de Flujo
-![Diagrama de Flujo](diagrama_flujo.png)
+![Diagrama de Flujo](Diagrama_flujo.png)
 
 ### Diagrama 2: Arquitectura y Capas del Sistema
 ![Diagrama de Arquitectura](Diagrama2.png)
