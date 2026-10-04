@@ -8,7 +8,7 @@ Proyecto desarrollado para la asignatura de Logica de Programación. Consiste en
 ![Diagrama de Flujo](diagrama_flujo.png)
 
 ### Diagrama 2: Arquitectura y Capas del Sistema
-![Diagrama de Arquitectura](diagrama2.png)
+![Diagrama de Arquitectura](Diagrama2.png)
 
 ## Instrucciones de Ejecución
 1. Abrir la terminal en la carpeta del proyecto.
