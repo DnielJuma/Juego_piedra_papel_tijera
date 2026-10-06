@@ -44,7 +44,7 @@ El sistema está organizado en **tres capas**:
 ### Diagrama de Flujo
 ![Diagrama de Flujo](./Diagrama_flujo.png)
 
-### Arquitectura de Software (Tres Capas)
+### Arquitectura de Software
 ![Arquitectura de Software](./Diagrama2.png)
 
 ---
